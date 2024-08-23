@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://ahmadmuawya.github.io/nonprojects1",
-
   "scripts": {
     "dev": "vite",
     "build": "vite build",
